@@ -1,0 +1,8 @@
+bs4
+dotenv
+langchain_groq
+langchain_chroma
+langchain_community
+langchain_huggingface
+sentence_transformers
+tf-keras
